@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+sentencepiece
+nltk
+spacy
+gensim
+tqdm
+streamlit
+prophet
+plotly
+joblib
